@@ -122,10 +122,10 @@ This project was created using the following technologies.
 <br>
 
 ## SRS
+https://docs.google.com/document/d/1j3MC5QPfGd3hD7WEzB43qHEiCVE5O6eMNn8fKWUIOUA/edit?usp=sharing
 
-https://docs.google.com/document/d/1T1jTC10cN0w8anFZVg5z0Qov0s-r-Qk3WYpoBCXK6O8/edit?usp=sharing
 <br>
 
 ## UML
+https://docs.google.com/document/d/1T1jTC10cN0w8anFZVg5z0Qov0s-r-Qk3WYpoBCXK6O8/edit?usp=sharing
 
-https://docs.google.com/document/d/1j3MC5QPfGd3hD7WEzB43qHEiCVE5O6eMNn8fKWUIOUA/edit?usp=sharing
